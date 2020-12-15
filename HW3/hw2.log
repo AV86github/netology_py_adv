@@ -1,0 +1,2 @@
+2020-12-15 11:21:40.539277: BEFORE. MyGenerator  ('test.txt',), {}
+2020-12-15 11:21:40.539277: AFTER. MyGenerator  result: <generator object MyGenerator at 0x00000199AE1C9190>
